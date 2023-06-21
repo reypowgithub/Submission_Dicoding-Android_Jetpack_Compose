@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DonasiApk</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_donasi">Cari donasi</string>
+    <string name="menu_home">home</string>
+    <string name="menu_profile">Profile</string>
+    
+    <!--  Home  -->
+    <string name="target">Target Donasi</string>
+    <string name="waktu">Tenggat Donasi</string>
+
+</resources>
